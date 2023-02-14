@@ -1,4 +1,4 @@
-#Intelligence artificielle pour le jeu Othello
+#Intelligence artificielle pour le jeu Othello#
 
 Le but de ce projet est de créer un outil capable de nous aider à nous améliorer au jeu d'Othello à différents stades de notre progression.
 
