@@ -41,10 +41,10 @@ Le niveau moyen parcours moins de coups (profondeur 7)
 Ici, on peut voir un début de partie se dérouler avec un retour en arrière avec l'éditeur de partie
 
 ## Installation
-
-- Cloner le dépôt github pybind11 https://github.com/pybind/pybind11.git
+- Cloner ce dépôt github
+- Cloner le dépôt github pybind11 https://github.com/pybind/pybind11.git dans ce dernier
 - Exécuter le CMakeLists.txt avec un compilateur 64bits en mode release (celui de Microsoft visiual marche mieux)
-- Aller chercher dans le build un fichier dont le nom commence par bindOthello et finit par l'extension .pyd
+- Aller chercher dans le build un fichier dont le nom commence par bindOthello et finit par l'extension .pyd et copier le dans le dépot cloné global
 - Installer la librairie Pygame
 - Exécuter main.py
 
