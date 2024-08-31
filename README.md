@@ -36,7 +36,7 @@ Le jeu est fonctionne contre un humain ou contre une IA. Trois niveaux d'IA sont
 Le niveau facile est aléatoire. Le niveau difficile a une bonne heuristique est parcours les coups possibles sur une profondeur 7.
 Le niveau moyen parcours moins de coups (profondeur 7)
 
-![alt-text](https://github.com/nicolas-srjg/OthelloTDLOG/blob/main/images.gif)
+![alt-text](https://github.com/nicolas-srjg/OthelloTDLOG/blob/main/ressources/images.gif)
 
 Ici, on peut voir un début de partie se dérouler avec un retour en arrière avec l'éditeur de partie
 

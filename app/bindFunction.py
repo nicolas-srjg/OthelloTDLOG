@@ -1,5 +1,5 @@
 import pygame
-from pygameTools import *
+from OthelloTDLOG.app.pygameTools import *
 from time import sleep
 
 def show_possible_moves(cpp_board, screen):

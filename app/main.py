@@ -1,7 +1,7 @@
 import pygame
 from time import sleep
-from pygameTools import *
-from bindFunction import *
+from OthelloTDLOG.app.pygameTools import *
+from OthelloTDLOG.app.bindFunction import *
 
 
 # init of pygame
